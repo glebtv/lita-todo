@@ -3,8 +3,8 @@ Gem::Specification.new do |spec|
   spec.version       = "0.0.1"
   spec.authors       = ["glebtv"]
   spec.email         = ["glebtv@gmail.com"]
-  spec.description   = %q{TODO list management for Lita chat bot}
-  spec.summary       = %q{TODO list management for Lita chat bot}
+  spec.description   = %q{TO DO list management for Lita chat bot}
+  spec.summary       = %q{TO DO list management for Lita chat bot}
   spec.homepage      = "https://github.com/glebtv/lita-todo"
   spec.license       = "MIT"
 
