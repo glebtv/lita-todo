@@ -1,6 +1,6 @@
 # lita-todo
 
-TODO: Add a description of the plugin.
+TODO list management for Lita chat bot
 
 ## Installation
 
@@ -12,11 +12,13 @@ gem "lita-todo"
 
 ## Configuration
 
-TODO: Describe any configuration attributes the plugin exposes.
+No configuration
 
 ## Usage
 
-TODO: Describe the plugin's features and how to use them.
+    todo list
+    todo add task
+    todo delete task_id
 
 ## License
 
