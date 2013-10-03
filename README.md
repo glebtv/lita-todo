@@ -16,9 +16,9 @@ No configuration
 
 ## Usage
 
-    todo list
-    todo add task
-    todo delete task_id
+    todo
+    todo add <task>
+    todo delete <task_id>
 
 ## License
 
